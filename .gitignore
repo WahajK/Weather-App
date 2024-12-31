@@ -1,0 +1,8 @@
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+db.sqlite3
+test.py
+weather_app/__pycache__/
+.env
