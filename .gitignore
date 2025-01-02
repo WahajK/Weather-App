@@ -1,11 +1,6 @@
-Include/
-Lib/
-Scripts/
-pyvenv.cfg
-db.sqlite3
-test.py
+virtual_env/
 weather_project/__pycache__/
 weather_app/__pycache__/
 .env
 weather_app/migrations
-weather-icons-master/
+db.sqlite3
